@@ -36,7 +36,7 @@ Large Language Models (LLMs) are advanced artificial intelligence systems traine
 
 ### 1.2 RAG (Retrieval-Augmented Generation)
 
-Retrieval-Augmented Generation (RAG) combines the best of both worlds from retrieval-based and generative approaches in natural language processing. It leverages a powerful language model for generating responses and an external knowledge source (like a database or the internet) from which it retrieves information to inform those responses. Essentially, RAG first searches for relevant information related to a query, then uses this context to generate accurate, informative answers. This approach allows RAG to provide more detailed and specific responses than traditional models, making it particularly useful for tasks requiring deep knowledge or factual accuracy, such as question answering and content creation.
+Retrieval-Augmented Generation (RAG) is an AI framework for retrieving facts from an external knowledge base to ground large language models (LLMs) on the most accurate, up-to-date information and to give users insight into LLMs' generative process. Retrieval-augmented generation (RAG) can improve the quality of LLM-generated responses by grounding the model on external sources of knowledge to supplement the LLM’s internal representation of information. Implementing RAG in an LLM-based question answering system has two main benefits: It ensures that the model has access to the most current, reliable facts, and that users have access to the model’s sources, ensuring that its claims can be checked for accuracy and ultimately trusted..
 
 <p align="center">
 <img src="imgs/RAG.png">
