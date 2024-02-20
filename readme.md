@@ -57,7 +57,7 @@ LangGraph is a library built on top of LangChain, designed for creating stateful
 
 ### 1.5 LangSmith
 
-LangSmith is a paid LLMOps product offered by LangChain, a startup that supports the development of large language model (LLM) applications. It is designed as an all-in-one platform to accelerate LLM application workflows, covering the entire project lifecycle from development and testing to deployment and monitoring. LangSmith, which has seen significant early adoption, provides visibility into LLM applications, deployment with hosted LangServe, and comprehensive monitoring capabilities. It is used by thousands of enterprises, including well-known companies such as Rakuten, Elastic, Moody’s, and Retool.
+LangSmith is a paid LLMOps product offered by LangChain. It is designed as an all-in-one platform to accelerate LLM application workflows, covering the entire project lifecycle from development and testing to deployment and monitoring. LangSmith, which has seen significant early adoption, provides visibility into LLM applications, deployment with hosted LangServe, and comprehensive monitoring capabilities. It is used by thousands of enterprises, including well-known companies such as Rakuten, Elastic, Moody’s, and Retool.
 
 <p align="center">
 <img src="imgs/LangSmith.png">
