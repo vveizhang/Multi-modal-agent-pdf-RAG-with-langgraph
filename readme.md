@@ -21,7 +21,6 @@
   - [5. Deployment](#5-deployment)
   - [Contact](#contact)
 
-The paper ‘Attention Is All You Need’ describes transformers and what is called a sequence-to-sequence architecture. Sequence-to-Sequence (or Seq2Seq) is a neural net that transforms a given sequence of elements, such as the sequence of words in a sentence, into another sequence. The [Transformer](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)) architecture follows an encoder-decoder structure, but does not rely on recurrence and convolutions in order to generate an output. Here, we hypothesis that we can predict if DNA/RNA fragments have the potential to form circRNAs solely by the sequence. We believe that by feeding the transformer model enough circRNAs and lincRNAs sequences, the model can learn to distinguish these two class by the DNA/RNA sequences. And the size of these Transformer models are often too large to train on local computers, cloud computing platforms (e.g. [GCP](https://cloud.google.com/), [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/)) are commonly used. Here, I would like to demonstrate how to train and deploy a transformer model from scratch for circRNA classification using Amazon SageMaker, streamlit and docker.
 
 ## 1. Introduction
 
