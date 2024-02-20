@@ -1,9 +1,5 @@
-<p align="center">
-<img src="/imgs/FrontPage.png">
-<br>
-</p>
+# Multi-modal & multi-agent pdf RAG with LangGraph
 
-# Train and deploy Transformer model using PyTorch on Amazon SageMaker to classify non-coding RNA
 
 ## Table of Contents
 
