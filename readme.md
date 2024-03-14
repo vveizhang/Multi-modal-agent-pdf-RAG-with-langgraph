@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [Train and deploy Transformer model using PyTorch on Amazon SageMaker to classify non-coding RNA](#train-and-deploy-transformer-model-using-pytorch-on-amazon-sagemaker-to-classify-non-coding-rna)
+- [Train and deploy Multi-modal & multi-agent pdf RAG with LangGraph](#train-and-deploy-multi-modal-&-multi-agent-pdf-RAG-with-LangGraph)
   - [Table of Contents](#table-of-contents)
   - [1. Introduction](#1-introduction)
     - [1.1 LLM (Large Language Model)](#11-llm-large-language-model)
